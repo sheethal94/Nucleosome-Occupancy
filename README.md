@@ -12,7 +12,7 @@ import numpy
 Nucleosome positions and transcription factor binding sites with chromosome number, start positions and end positions 
 
 #### Output
-Number of nucleosomes at each of the 0-2000 position
+Number of nucleosomes at each of the 0-2000 position of transcription factor binding sites
 
 ### Command to run this program 
 python3 nucleosome_occupancy.py
