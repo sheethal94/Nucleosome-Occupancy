@@ -15,5 +15,5 @@ Nucleosome positions and transcription factor binding sites with chromosome numb
 Number of nucleosomes at each of the 0-2000 position
 
 ### Command to run this program 
-python nucleosome_occupancy.py
+python3 nucleosome_occupancy.py
  
